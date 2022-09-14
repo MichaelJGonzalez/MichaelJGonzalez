@@ -6,7 +6,7 @@
  I’m interested in projects <br>
  I’m looking to collaborate on projects <br>
   <strong>There is no code in this repository. </strong> </p> </div>
-<img src ="https://pbs.twimg.com/profile_images/587949417577066499/3uCD4xxY_400x400.jpg"> </img>
+
 
 <!--
 **MichaelJGonzalez/MichaelJGonzalez** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
