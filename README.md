@@ -3,7 +3,7 @@
 
 <div> 
  <p> Hi, I’m Michael
- I’m interested in projects <br>
+ I’m interested in coding <br>
  I’m looking to collaborate on projects <br>
  </p> </div>
 
