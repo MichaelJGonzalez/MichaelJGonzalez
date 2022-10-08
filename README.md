@@ -1,5 +1,5 @@
 ### Hi there 👋
-<div> <img src="https://github.com/MichaelJGonzalez/About-me/blob/Michael/Earth_Western_Hemisphere_transparent_background.png" height="30%" width="30%"> </img> </div>
+<div> <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSDWLjUAQxczbJlOJheXcttmVN3-rkTmByjTg&usqp=CAU"> </img> </div>
 
 <div> 
  <p> Hi, I’m Michael
