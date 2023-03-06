@@ -8,7 +8,6 @@
  </html>
 <div> 
  <p> Hi, I’m Michael <br>
- looking to collaborate on projects <br>
  </p> 
 </div>
 <!--MichaelJGonzalez/MichaelJGonzalez** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.//-->
