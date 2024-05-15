@@ -2,7 +2,7 @@
 <!DOCTYPE html>
  <html>
  <body>
-<img src="https://miro.medium.com/max/1400/1*U-R58ahr5dtAvtSLGK2wXg.png" alt ="Hello World" width="500" height ="333"> </img> 
+<img src="https://miro.medium.com/max/1400/1*U-R58ahr5dtAvtSLGK2wXg.png" alt ="Hello World" width="600" height ="400"> </img> 
  </div>
  </body>
  </html>
