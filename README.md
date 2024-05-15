@@ -14,7 +14,6 @@
 <!--Here are some ideas to get you started:-->
 
 - 🔭 I’m currently working on Object Oriented Programming & Data Structures & Algorithms
-- 💬 Ask me about anything
 - 📫 How to reach me: https://www.linkedin.com/in/michael-j-gonzalez-mjg/
 - Collaborative team project: https://www.youtube.com/watch?v=Oe9wUDq6OEc&t=5s&ab_channel=WeCanCodeIT
 
